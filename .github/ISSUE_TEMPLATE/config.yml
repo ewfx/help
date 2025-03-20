@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Hackathon Support
-    url: https://github.com/ewfx/help/issues
-    about: Please ask and answer questions here
+  - name: Read the FAQ
+    url: https://github.com/ewfx/help/blob/main/README.md
+    about: Answers to commonly asked questions

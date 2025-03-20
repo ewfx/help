@@ -1,7 +1,7 @@
 name: Help Request
 description: Raise a Help Request
 title: "[Help]: "
-labels: ["help-wanted", "triage"]
+labels: ["help wanted", "triage"]
 body:
   - type: dropdown
     id: challenge
@@ -31,7 +31,7 @@ body:
     id: what-happened
     attributes:
       label: What happened?
-      description: Please describe your problem. Include relevant links to help the admion fix your problem fast.
+      description: Please describe your problem. Include relevant links to help the admin fix your problem fast.
       placeholder: Tell us what you see!
       value: "I don't see my repo"
     validations:

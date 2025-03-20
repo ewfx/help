@@ -9,13 +9,13 @@ body:
       label: Challenge
       description: Please mention your challenge name
       options:
-        - AI-Driven Entity Intelligence & Risk Analysis - `aidel`
-        - AI-Driven Hyper-Personalization & Recommendations - `aidhp`
-        - Context-Aware Testing System for Financial Ecosystems - `catfe`
-        - Gen AI enabled Integrated Platform Environment - `gaipl`
-        - Gen AI Orchestrator for Email and Document Triage/Routing - `gaied`
-        - Gen AI-Based Data Profiling - `gaidp`
-        - Smarter Reconciliation and Anomaly Detection using Gen AI - `sradg`
+        - AI-Driven Entity Intelligence & Risk Analysis
+        - AI-Driven Hyper-Personalization & Recommendations
+        - Context-Aware Testing System for Financial Ecosystems
+        - Gen AI enabled Integrated Platform Environment
+        - Gen AI Orchestrator for Email and Document Triage/Routing
+        - Gen AI-Based Data Profiling
+        - Smarter Reconciliation and Anomaly Detection using Gen AI
       default: 0
     validations:
       required: true

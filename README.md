@@ -1,3 +1,5 @@
+# Frequently Asked Questions (FAQs)
+
 ## How to find my challenge prefix?
 Based on which challenge you are attempting, we have prefixed a challenge slug to your repo name. Below are the challenge prefixes used
   - AI-Driven Entity Intelligence & Risk Analysis - `aidel`

@@ -1,0 +1,46 @@
+name: Help Request
+description: Raise a Help Request
+title: "[Help]: "
+labels: ["help-wanted", "triage"]
+body:
+  - type: dropdown
+    id: challenge
+    attributes:
+      label: Challenge
+      description: Please mention your challenge name
+      options:
+        - AI-Driven Entity Intelligence & Risk Analysis - `aidel`
+        - AI-Driven Hyper-Personalization & Recommendations - `aidhp`
+        - Context-Aware Testing System for Financial Ecosystems - `catfe`
+        - Gen AI enabled Integrated Platform Environment - `gaipl`
+        - Gen AI Orchestrator for Email and Document Triage/Routing - `gaied`
+        - Gen AI-Based Data Profiling - `gaidp`
+        - Smarter Reconciliation and Anomaly Detection using Gen AI - `sradg`
+      default: 0
+    validations:
+      required: true
+  - type: textarea
+    id: name
+    attributes:
+      label: Team Name
+      description: Please specify your team name
+      placeholder: XYZCoders
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Please describe your problem. Include relevant links to help the admion fix your problem fast.
+      placeholder: Tell us what you see!
+      value: "I don't see my repo"
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: I have read the FAQs
+      description: By submitting this issue, you agree that your have read the FAQs [FAQ](https://github.com/ewfx/help/blob/main/README.md). 
+      options:
+        - label: I agree
+          required: true

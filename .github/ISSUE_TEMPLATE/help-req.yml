@@ -19,7 +19,7 @@ body:
       default: 0
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: name
     attributes:
       label: Team Name

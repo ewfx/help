@@ -10,8 +10,8 @@ Based on which challenge you are attempting, we have prefixed a challenge slug t
   - Gen AI-Based Data Profiling - `gaidp`
   - Smarter Reconciliation and Anomaly Detection using Gen AI - `sradg`
 
-## How to find your Team repo name?
-The repo names comply with the following naming convention `<challenge>-<team-name>`. The teeam names have been sanitized to align with Github rtepo naming conventions
+## How to find your team repo name?
+The repo names comply with the following naming convention `<challenge>-<team-name>`. The team names have been sanitized to align with Github rtepo naming conventions
 
 Some examples are given below
   - Team `CoolCoders` in Challenge `Context-Aware Testing System for Financial Ecosystems`

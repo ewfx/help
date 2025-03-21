@@ -23,8 +23,8 @@ body:
     id: name
     attributes:
       label: Team Name
-      description: Please specify your team name
-      placeholder: XYZCoders
+      description: Please specify your the url to your repo or team
+      placeholder: https://github.com/ewfx/gaied-xyz-codes
     validations:
       required: true
   - type: textarea

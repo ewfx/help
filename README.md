@@ -58,8 +58,8 @@ Once you have **edit access**, follow these steps:
 
 ---
 
-## 📧 I Forgot to Provide My Personal Email During Registration. What Can I Do?
-No worries! You can still edit your registration and add your personal email.  
+## 📧Where is my GitHub Organisation Invite?
+We send the Github organisation invite to the personal email that you provided during registration. In case you havent provided, no worries! You can still edit your registration and add your personal email. We process these emails in an overnight batch process.
 
 🔹 If you need **urgent access**, raise an issue here: [ewfx/help/issues](https://github.com/ewfx/help/issues).  
 

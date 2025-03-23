@@ -54,7 +54,7 @@ Once you have **edit access**, follow these steps:
 1. Navigate to **Project Settings**.  
 2. Go to **Collaborators and Teams**.  
 3. Click **Add People**.  
-4. To add external members, invite them as **Outside Collaborators**.
+4. Provide the github id of your team mates and send invite.
 
 ---
 

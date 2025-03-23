@@ -1,5 +1,9 @@
 # ❓ Frequently Asked Questions (FAQs)
 
+> ⚠ **Notice:** If you have any issues related to **access** or **not finding your Git repository**, please raise an issue here: [ewfx/help/issues](https://github.com/ewfx/help/issues).  
+
+---
+
 ## 🔍 How to Find My Challenge Prefix?
 Each challenge has a unique prefix added to your repository name. Below are the prefixes for each challenge:
 
@@ -54,4 +58,11 @@ Once you have **edit access**, follow these steps:
 
 ---
 
-💡 **Need More Help?** Reach out to the admins for assistance! 🚀
+## 📧 I Forgot to Provide My Personal Email During Registration. What Can I Do?
+No worries! You can still edit your registration and add your personal email.  
+
+🔹 If you need **urgent access**, raise an issue here: [ewfx/help/issues](https://github.com/ewfx/help/issues).  
+
+---
+
+💡 **Need More Help?** If you're experiencing access issues or can't find your repo, raise an issue at [ewfx/help/issues](https://github.com/ewfx/help/issues). 🚀  

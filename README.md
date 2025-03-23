@@ -36,7 +36,7 @@ Team names are sanitized to align with GitHub repo naming conventions.
 ---
 
 ## ✍️ How Do I Get Edit Access to My Repo?
-By default, you have **read access** to all repos in the [ewfx](https://github.com/ewfx) organization. To gain **edit access**:
+We have sent an organisation invite to the personal email you provided while registering for the hackathon. Please accept the invite to become an organisation member.  Once you are an organisation member, by default, you have **read access** to all repos in the [ewfx](https://github.com/ewfx) organization. To gain **edit access**:
 
 1. Go to [GitHub Teams](https://github.com/orgs/ewfx/teams).  
 2. Search for your **repo name**.  

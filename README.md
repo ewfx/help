@@ -65,37 +65,4 @@ No worries! You can still edit your registration and add your personal email.
 
 ---
 
-## 🤖 How Does Automatic Evaluation Work?
-The evaluation process consists of **two stages**:  
-
-### **1️⃣ Elimination Stage** (Basic Checks ✅)  
-Your repository must meet the following criteria to proceed to scoring:  
-✔ **At least one new commit** after repo creation.  
-✔ **All commits must be before** the cutoff time of **9 PM on the 26th**.  
-✔ **README** is updated with **proper details** about the solution.  
-✔ **Demo slides and videos** are available in **`artifacts/demo/`** folder.  
-✔ **All source code files** are available in **`code/src/`** folder.  
-
-⚠ **Repos failing these checks will not move to AI-based scoring.**  
-
-*Good to have*
-
-✔ **All test files** are available in **`code/test/`** folder.  
-✔ **Architecture drawing or design docs** are available in **`artifacts/arch/`** folder.  
-
----
-
-### **2️⃣ AI-Based Scoring Stage** (2nd Round Evaluation 🔥)  
-If a repo passes the elimination stage, it will be **evaluated on five key parameters**:  
-
-📌 **Design & Approach** – How well thought-out is the solution?  
-📌 **Completeness of Solution** – Does it fully address the problem statement?  
-📌 **Code Quality** – Is the code well-structured, readable, and maintainable?  
-📌 **Test Results** – Are there sufficient tests, and do they pass?  
-📌 **Overall Score** – A holistic evaluation of the project.  
-
-🚀 **AI Based scores will be provided as an input to the manual/human scoring rounds**  
-
----
-
 💡 **Need More Help?** If you're experiencing access issues or can't find your repo, raise an issue at [ewfx/help/issues](https://github.com/ewfx/help/issues). 🚀  

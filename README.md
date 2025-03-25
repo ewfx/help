@@ -80,7 +80,7 @@ Your repository must meet the following criteria to proceed to scoring:
 
 ---
 
-### **2️⃣ AI-Based Scoring Stage** (Final Evaluation 🔥)  
+### **2️⃣ AI-Based Scoring Stage** (2nd Round Evaluation 🔥)  
 If a repo passes the elimination stage, it will be **evaluated on five key parameters**:  
 
 📌 **Design & Approach** – How well thought-out is the solution?  

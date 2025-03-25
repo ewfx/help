@@ -76,12 +76,12 @@ Your repository must meet the following criteria to proceed to scoring:
 ✔ **Demo slides and videos** are available in **`artifacts/demo/`** folder.  
 ✔ **All source code files** are available in **`code/src/`** folder.  
 
+⚠ **Repos failing these checks will not move to AI-based scoring.**  
+
 *Good to have*
 
 ✔ **All test files** are available in **`code/test/`** folder.  
 ✔ **Architecture drawing or design docs** are available in **`artifacts/arch/`** folder.  
-
-⚠ **Repos failing these checks will not move to AI-based scoring.**  
 
 ---
 

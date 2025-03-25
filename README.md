@@ -74,6 +74,8 @@ Your repository must meet the following criteria to proceed to scoring:
 ✔ **All commits must be before** the cutoff time of **9 PM on the 26th**.  
 ✔ **README** is updated with **proper details** about the solution.  
 ✔ **Demo slides and videos** are available in **`artifacts/demo/`** folder.  
+✔ **All source code files** are available in **`code/src/`** folder.  
+✔ **All test files** (if any) are available in **`code/test/`** folder.  
 
 ⚠ **Repos failing these checks will not move to AI-based scoring.**  
 

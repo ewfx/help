@@ -36,7 +36,7 @@ Team names are sanitized to align with GitHub repo naming conventions.
 ---
 
 ## ✍️ How Do I Get Edit Access to My Repo?
-We have sent an organisation invite to the personal email you provided while registering for the hackathon. Please accept the invite to become an organisation member.  Once you are an organisation member, by default, you have **read access** to all repos in the [ewfx](https://github.com/ewfx) organization. To gain **edit access**:
+By default, you have **read access** to all repos in the [ewfx](https://github.com/ewfx) organization. To gain **edit access**:
 
 1. Go to [GitHub Teams](https://github.com/orgs/ewfx/teams).  
 2. Search for your **repo name**.  
@@ -54,14 +54,42 @@ Once you have **edit access**, follow these steps:
 1. Navigate to **Project Settings**.  
 2. Go to **Collaborators and Teams**.  
 3. Click **Add People**.  
-4. Provide the github id of your team mates and send invite.
+4. To add external members, invite them as **Outside Collaborators**.
 
 ---
 
-## 📧Where is my GitHub Organisation Invite?
-We send the Github organisation invite to the personal email that you provided during registration. In case you havent provided, no worries! You can still edit your registration and add your personal email. We process these emails in an overnight batch process.
+## 📧 I Forgot to Provide My Personal Email During Registration. What Can I Do?
+No worries! You can still edit your registration and add your personal email.  
 
 🔹 If you need **urgent access**, raise an issue here: [ewfx/help/issues](https://github.com/ewfx/help/issues).  
+
+---
+
+## 🤖 How Does Automatic Evaluation Work?
+The evaluation process consists of **two stages**:  
+
+### **1️⃣ Elimination Stage** (Basic Checks ✅)  
+Your repository must meet the following criteria to proceed to scoring:  
+✔ **At least one new commit** after repo creation.  
+✔ **All commits must be before** the cutoff time of **9 PM on the 26th**.  
+✔ **README** is updated with **proper details** about the solution.  
+✔ **Demo slides and videos** are available in **`artifacts/demo/`** folder.  
+✔ **Solution drawing/architecture document** is provided in **`artifacts/arch/`** folder.  
+
+⚠ **Repos failing these checks will not move to AI-based scoring.**  
+
+---
+
+### **2️⃣ AI-Based Scoring Stage** (Final Evaluation 🔥)  
+If a repo passes the elimination stage, it will be **evaluated on five key parameters**:  
+
+📌 **Design & Approach** – How well thought-out is the solution?  
+📌 **Completeness of Solution** – Does it fully address the problem statement?  
+📌 **Code Quality** – Is the code well-structured, readable, and maintainable?  
+📌 **Test Results** – Are there sufficient tests, and do they pass?  
+📌 **Overall Score** – A holistic evaluation of the project.  
+
+🚀 **AI Based scores will be provided as an input to the manual/human scoring rounds**  
 
 ---
 

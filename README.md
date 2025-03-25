@@ -75,7 +75,9 @@ Your repository must meet the following criteria to proceed to scoring:
 ✔ **README** is updated with **proper details** about the solution.  
 ✔ **Demo slides and videos** are available in **`artifacts/demo/`** folder.  
 ✔ **All source code files** are available in **`code/src/`** folder.  
-Good to have
+
+*Good to have*
+
 ✔ **All test files** are available in **`code/test/`** folder.  
 ✔ **Architecture drawing or design docs** are available in **`artifacts/arch/`** folder.  
 

@@ -1,0 +1,50 @@
+name: Help request
+description: Ask for help with access, your repo, or the event
+title: "[Help]: "
+labels: ["help wanted", "triage"]
+body:
+  - type: checkboxes
+    id: faq-read
+    attributes:
+      label: FAQ check
+      options:
+        - label: I have read the FAQ (README of this repo) and my question isn't answered there
+          required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Repo access (invite / push / permissions)
+        - Repo missing or wrong name
+        - Problem statement / submission.yaml
+        - Demo video link
+        - Evaluator / scoring question
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: github-username
+    attributes:
+      label: Your GitHub username
+      placeholder: octocat
+    validations:
+      required: true
+
+  - type: input
+    id: repo-url
+    attributes:
+      label: Your repo URL
+      placeholder: https://github.com/ewfx/hack26-octocat
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      placeholder: I don't see my repo / git push returns 403 / ...
+    validations:
+      required: true

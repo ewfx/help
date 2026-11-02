@@ -1,7 +1,6 @@
 # Hackathon 2026 — Help
 
-Ask your questions here by raising an issue. **Read this FAQ first** — most
-questions in 2025 were answered by it.
+Ask your questions here by raising an issue. **Read this FAQ first**
 
 ## Before you ask: the 60-second checklist
 1. Did you **accept the org invite** email? Check spam. (Sent from GitHub, subject "You've been invited to join the ewfx organization".)
@@ -39,8 +38,7 @@ wrong permission level, repo not created) — raise an issue for those.
 Problem statements and their prefixes are announced at kickoff (event day,
 hour 0) — see the org profile page and the announcement channel. Once
 announced, put your chosen prefix in `submission.yaml` at your repo root.
-**Repos are not renamed this year** (2025 had a mid-event rename that caused
-confusion) — your repo name (`hack26-<username>`) stays fixed regardless of
+**Repos are not renamed** — your repo name (`hack26-<username>`) stays fixed regardless of
 which problem statement you pick.
 
 ## Demo videos
